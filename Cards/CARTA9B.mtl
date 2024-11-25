@@ -19,7 +19,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd Recursos/Recursos/maderaquemada.png
+map_Kd Recursos/maderaquemada.png
 
 newmtl Material.002
 Ns 250.000000
@@ -29,7 +29,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd Recursos/Recursos/maderaquemada.png
+map_Kd Recursos/maderaquemada.png
 
 newmtl cetyslogo
 Ns 250.000000
@@ -38,5 +38,5 @@ Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 illum 2
-map_Kd Recursos/Recursos/cetyslogo.png
-map_d Recursos/Recursos/cetyslogo.png
+map_Kd Recursos/cetyslogo.png
+map_d Recursos/cetyslogo.png
