@@ -13,7 +13,7 @@ const cardsModels = [
   'Cards/CARTA3A.obj',
   'Cards/CARTA4A.obj',
   'Cards/CARTA5A.obj',
-  'Cards/CARTA6A.obj',
+  'Cards/CARTA6A.obj'
 ];
 
 const counterpartModels = [
